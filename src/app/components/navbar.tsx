@@ -4,15 +4,15 @@ import Link from "next/link";
 import Image from "next/image";
 
 export default function Navbar() {
-  const [isScrolling, setIsScrolling] = useState(false);
+  // const [isScrolling, setIsScrolling] = useState(false);
 
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolling(window.scrollY > 0);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  // useEffect(() => {
+  //   const handleScroll = () => {
+  //     setIsScrolling(window.scrollY > 0);
+  //   };
+  //   window.addEventListener("scroll", handleScroll);
+  //   return () => window.removeEventListener("scroll", handleScroll);
+  // }, []);
 
   return (
     <nav
