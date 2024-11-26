@@ -12,23 +12,23 @@ const TESTIMONIALS: Testimonial[] = [
   {
     feedback:
       "It has been a game-changer for my business. Their dedication, expertise, and attention to detail have truly set them apart. I highly recommend their services!",
-    client: "Bara Pandit",
+    client: "Sami Nayeem",
     title: "CEO @ MARKETING DIGITAL LTD.",
-    imageUrl: "/chota pandit.jpg", // Image path for public folder
+    imageUrl: "/image sami.png", // Image path for public folder
   },
   {
     feedback:
       "It understood my unique needs and delivered a tailored solution promptly. Their customer support is top-notch, and I appreciate their commitment.",
-    client: "Medium Pandit",
+    client: "Sami Nayeem",
     title: "MARKETING @ APPLE INC.",
-    imageUrl: "/chota pandit.jpg",
+    imageUrl: "/image sami.png",
   },
   {
     feedback:
       "They not only met but exceeded our expectations. Their innovative approach and technical proficiency have been instrumental in our success.",
-    client: "Chota Pandit",
+    client: "Sami Nayeem",
     title: "CFO @ APPLE INC.",
-    imageUrl: "/chota pandit.jpg",
+    imageUrl: "/image sami.png",
   },
 ];
 
